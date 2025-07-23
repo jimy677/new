@@ -1,5 +1,6 @@
 .title {
     border: 3px solid blue;
+    text-align: center;
 }
 
 .one {
@@ -24,4 +25,8 @@
 
 .second{
     display: flex;
+}
+
+h2{
+    text-align: center;
 }
