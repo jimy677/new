@@ -1,21 +1,16 @@
 .title {
-    border: 3px solid blue;
     text-align: center;
-}
-
-.one {
-    display: flex;
-    justify-content: space-between;
-
+    padding-bottom: 30px;
+    padding-top: 20px;
 }
 
 .history {
-    border: 3px solid red;
+    align-items: center;
 }
 
 .photos {
     background-color: black;
-    border: 3px solid black;
+    height: 500px;
 
 }
 
@@ -29,4 +24,10 @@
 
 h2{
     text-align: center;
+}
+
+.one {
+    align: center;
+    display: flex;
+    justify-content: space-evenly;
 }
